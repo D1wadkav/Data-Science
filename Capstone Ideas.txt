@@ -1,0 +1,10 @@
+Capstone Project Ideas:
+
+ 1) Recommendation algorithm for Steam Store:
+                 - attempt to recommend games to purchase/explore based on history of games played, games purchased, categories etc.
+
+2) Recommendation algorithm for News feeds:
+                 - attempt to arrange/prioritise news feeds based on topic of interest & importance. Want to narrow it down to the CyberSecurity news feeds given it is my domain of expertise. 
+
+3) Project attempting machine learning algorith to emulate a player in simple games:
+                - this was deemed as too complex/unfeasable and hence will not be considered for the Capstone.    
